@@ -1,7 +1,7 @@
 <h1 align="center">Documents</h1>
 These Are Documents For All Of The Projects Created By GsLibrary In A Fully Explained Version. This Includes Additional Examples, Easy To Copy And Paste Stuff And Maybe Some Videos Soon (IDK)
 
-<h2 align="center">GsLibrary/Library</h2>
+<h2 align="center">GsLibrary/Library Importing</h2>
 
 <h3>Script.js</h3>
 
@@ -38,3 +38,7 @@ Copy Raw Script For Style.css:
 Copy Script For Style.css:
 
     <link ref="stylesheet" href="https://cdn.statically.io/gh/GsLibrary/Library/main/Style.css">
+
+<h2 align="center">GsLibrary/Library Usage</h2>
+
+Text Down Below
